@@ -25,14 +25,6 @@
 ---
 
 ## Featured Projects
-- **AI/ML Portfolio**: A collection of machine learning models and AI projects.  
-  [Explore Here](#)
-
-- **Responsive Web App**: Built with Next.js and TailwindCSS.  
-  [View Project](#)
-
-- **3D Art Gallery**: Showcasing my digital creations.  
-  [Check It Out](#)
 
 ---
 
