@@ -15,7 +15,6 @@
 ---
 
 ## Skills
-- 🧠 **Artificial Intelligence and Machine Learning**
 - 💻 **Programming Languages**: Python, C++, JavaScript
 - 🌐 **Frontend Development**: Next.js, TailwindCSS
 - 🔬 **Semiconductor Analysis and Design**
